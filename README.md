@@ -32,5 +32,10 @@ Basics of using the developer console -> [Minicourse](https://szkoleniedlaqa.pl/
 [Certificate](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 
 ### Postman
+
+[Here](https://documenter.getpostman.com/view/26271502/2s946o5ACP) you can find my postman collection with tasks I've faced during the course or just click [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26271502-a389a0fa-b992-4c4b-8d19-7b2f104e16d6?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D26271502-a389a0fa-b992-4c4b-8d19-7b2f104e16d6%26entityType%3Dcollection%26workspaceId%3D7941f415-521a-4da0-8729-8e48489b1100)
+
+And [here](https://drive.google.com/file/d/1QqQWKG59P-x7opME06O6d6RgPBKCRYgC/view?usp=drive_link) you can check the content of the tasks.
+
 ### SQL
 ### ChatGPT

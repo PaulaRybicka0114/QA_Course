@@ -1,26 +1,36 @@
 # QA_Course
-This course allowed me to comprehensively prepare for a career change. It is a difficult and time-consuming process, but well worth the effort put in. Thanks to the various modules, I was able to familiarise myself with a wide range of topics related to the Quality Assurance branch. In this portfolio, I would like to present the results of my learning. However, I have only included modules in which I can 'materially' present my work. :slightly_smiling_face:
+Thanks to the various modules in this course, I was able to familiarise myself with a wide range of topics related to the Quality Assurance branch. In this portfolio, I would like to present the results of my learning. However, I have only included modules in which I can 'materially' present my work. :slightly_smiling_face:
+This course allowed me to:
+* get to know the necessary theory with practice
+* learn about tools used in QA work
+* explore QA branch: problem analysis and solutions, standards and good practices
+* create proper documentation
 
-### MODULE 4 - Basic theory
-In this module I was allowed to:
-* 
+Below, you can check out examples of the tasks I faced during the course. 
 
-### MODULE 5 - Basic tools part 1
+### Sample documentation
+**1. Allegro Sandbox**
+* [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
+* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
+* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
+* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
 
-### MODULE 6 - Basic tools part 2
+**2. Generic Shop by TestArmy**
+* [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
+* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
+* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
+* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
 
-### MODULE 7 - Testing
+**3. Definition of Ready & Definition of Done**
 
-### MODULE 8 - Quality management
+[Sample](https://drive.google.com/file/d/1nj6y_bUZGhSG9ZnZiap4Lz6uBn0AYaNs/view?usp=sharing)
 
-### MODULE 9 - Quality assurance
+### Devtools
 
-### MODULE 10 - The whole truth about IT
+Basics of using the developer console -> [Minicourse](https://szkoleniedlaqa.pl/konsola/)
 
-### MODULE 11 - Postman
+[Certificate](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 
-### MODULE 12 - SQL
-
-### MODULE 13 - Portfolio
-
-### MODULE 14 - ChatGPT
+### Postman
+### SQL
+### ChatGPT

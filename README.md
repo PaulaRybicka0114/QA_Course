@@ -1,4 +1,5 @@
 # QA_Course
+### [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/) | Adam Gola
 Thanks to the various modules in this course, I was able to familiarise myself with a wide range of topics related to the Quality Assurance branch. In this portfolio, I would like to present the results of my learning. However, I have only included modules in which I can 'materially' present my work. :slightly_smiling_face:
 This course allowed me to:
 * get to know the necessary theory with practice
@@ -25,9 +26,9 @@ Below, you can check out examples of the tasks I faced during the course.
 
 [Sample](https://drive.google.com/file/d/1nj6y_bUZGhSG9ZnZiap4Lz6uBn0AYaNs/view?usp=sharing)
 
-### Devtools
+### Devtools [Minicourse](https://szkoleniedlaqa.pl/konsola/)
 
-Basics of using the developer console -> [Minicourse](https://szkoleniedlaqa.pl/konsola/)
+Basics of using the developer console
 
 [Certificate](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 
@@ -38,4 +39,9 @@ Basics of using the developer console -> [Minicourse](https://szkoleniedlaqa.pl/
 And [here](https://drive.google.com/file/d/1QqQWKG59P-x7opME06O6d6RgPBKCRYgC/view?usp=drive_link) you can check the content of the tasks.
 
 ### SQL
+
+I completed the tasks using Xampp, as I use macOS.
+
+[Here](https://drive.google.com/file/d/1KSOP_zzklIM21iJGmHo84DIRl7C2KYCz/view?usp=drive_link) you can check what I've learnt.
+
 ### ChatGPT
